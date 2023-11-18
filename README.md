@@ -1,4 +1,4 @@
-### Hi there 👋 my name is enora sun
+### Hi there 👋 my name is enora sunsun
 
 <!--
 **enora-sun/enora-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
