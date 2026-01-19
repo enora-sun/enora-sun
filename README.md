@@ -1,5 +1,4 @@
 # Hi there 🔆 My name is Enora Sun!
-## Welcome to my Github page!
 
 # 💫 About Me:
 🔭 I’m a third year Computer Science student at University of British Columbia.<br>
