@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m a third year Computer Science student at University of British Columbia.<br>
-🌱 Technical L&D Intern @ Geotab, Research Assistant @ UBC Kalyan Lab, Prev. SDE @ Lingotok<br>
+🌱 Prev. Technical L&D Intern @ Geotab, Research Assistant @ UBC Kalyan Lab, SDE @ Lingotok<br>
 🖼️ I’m experienced in Automation & Scripting, Web Development and Data Analysis.<br>
 💬 Always happy to connect, Find me on <a href="https://www.linkedin.com/in/yinuo-sun-022063326/">Linkedin</a>!<br>
 
